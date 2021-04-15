@@ -9,6 +9,6 @@ entries:
     name: test-nginx
     type: application
     urls:
-    - https://github.com/princemishra5/helm-charts/test-nginx-0.1.0.tgz
+    - https://github.com/princemishra5/helm-charts/blob/master/test-nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2021-04-15T17:49:38.753204+05:30"
